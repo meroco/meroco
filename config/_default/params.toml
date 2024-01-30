@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "https://i.loli.net/2020/02/20/Sqf9cNiLoZ3z781.png"
+favicon = "/favicon.png"
 
 [footer]
 since = 2016
@@ -19,7 +19,7 @@ subtitle = "我很可爱，请给我钱。"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "https://i.loli.net/2021/01/31/UQVZYfcg9LlRtCm.jpg"
+src = "/avatar.jpg"
 
 [article]
 math = false
