@@ -26,7 +26,7 @@ comments: false
  * 数码相机：Nikon Z5 24-70 F4S
 * 数播：WiiM Pro Plus
 * 黑胶转盘：Technics SL-100C
-* 唱头：Grado Referenc3 & Grado Opus3
+* 唱头：Grado Reference3 & Grado Opus3
 * 唱头架：Yamamoto Sound Craft HS-4 & HS-2
 * 唱放：Musical Surroundings NovaIII + Linear Charging Power Supply
 * 耳放：Niuniu Audio AMP Designed for Grado
