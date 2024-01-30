@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/favicon.png"
+favicon = "assets/favicon.png"
 
 [footer]
 since = 2016
@@ -19,7 +19,7 @@ subtitle = "我很可爱，请给我钱。"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "/avatar.jpg"
+src = "assets/avatar.jpg"
 
 [article]
 math = false
