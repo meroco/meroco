@@ -7,13 +7,6 @@
 #icon = "home"
 #newtab = true
 
-[[social]]
-identifier = "weibo"
-name = "weibo"
-url = "https://weibo.com/meroco"
-
-[social.params]
-icon = "brand-weibo"
 
 [[social]]
 identifier = "twitter"
