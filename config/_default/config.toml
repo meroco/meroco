@@ -1,6 +1,6 @@
 # Change baseurl before deploy
 baseurl = "https://mint.moe"
-languageCode = "zh-cn"
+languageCode = "zh-hans"
 paginate = 5
 title = "毛毛哒油"
 
