@@ -4,7 +4,7 @@ links:
   - title: Bilibili
     description: 我的B站视频空间
     website: https://space.bilibili.com/643842
-    image: https://s2.loli.net/2024/01/31/tzQAwkyPJax2sbD.png
+    image: https://s2.loli.net/2024/01/31/dFDKsec7NGShTCt.png
 menu:
     main: 
         weight: 4
@@ -35,4 +35,4 @@ comments: false
 * 喇叭：ELAC BS 283
 * 机架：Solidsteel S3-3
 * 脚架：Solidsteel SS-6
-* 抓轨光驱：ASUS BW-16D1HT
+* 光驱：ASUS BW-16D1HT
