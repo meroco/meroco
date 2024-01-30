@@ -19,7 +19,7 @@ subtitle = "我很可爱，请给我钱。"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "assets/avatar.jpg"
+src = "avatar.jpg"
 
 [article]
 math = false
