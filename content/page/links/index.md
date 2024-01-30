@@ -3,7 +3,7 @@ title: 关于
 links:
   - title: Bilibili
     description: GitHub is the world's largest software development platform.
-    website: https://github.com](https://space.bilibili.com/643842
+    website: https://space.bilibili.com/643842
     image: https://s1.aigei.com/src/img/png/ca/ca068f4865cb43158344b81d0ba21b8d.png?imageMogr2/auto-orient/thumbnail/!132x132r/gravity/Center/crop/132x132/quality/85/%7CimageView2/2/w/132&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:5E8CLniHn-J48Jla3noiE61RHqM=
 menu:
     main: 
