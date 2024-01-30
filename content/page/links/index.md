@@ -4,7 +4,7 @@ links:
   - title: Bilibili
     description: 我的B站视频空间
     website: https://space.bilibili.com/643842
-    image: https://i0.hdslb.com/bfs/album/4f43799ce15781240d363d928816e77512550cf2.png
+    image: https://s2.loli.net/2024/01/31/tzQAwkyPJax2sbD.png
 menu:
     main: 
         weight: 4
@@ -21,16 +21,18 @@ comments: false
 * 标签：绘画、摄影、碟霸、胶佬、娃娘
 
 * 相机：
- * 135画幅：Nikon F
+ * 135画幅：Nikon F80D
  * 120画幅：Rolleiflex 3.5F
- * 数码相机：Nikon Z5
-* 耳机：Sennheiser HD600
-* CD转盘：Pioneer PD-T04S
+ * 数码相机：Nikon Z5 24-70 F4S
+* 数播：WiiM Pro Plus
 * 黑胶转盘：Technics SL-100C
-* 唱头：Ortofon Quintet Blue
-* 唱头架：Yamamoto Sound Craft HS-4 
-* 唱放：Rega Fono MC MK III
+* 唱头：Grado Referenc3 & Grado Opus3
+* 唱头架：Yamamoto Sound Craft HS-4 & HS-2
+* 唱放：Musical Surroundings NovaIII + Linear Charging Power Supply
 * 耳放：Niuniu Audio AMP Designed for Grado
-* 抓轨光驱：LG WH16NS60
-
-以上均为当前持有。
+* 耳机：Grado RS-1 & Sennheiser HD600
+* 功放：Yamaha A-S1200
+* 喇叭：ELAC BS 283
+* 机架：Solidsteel S3-3
+* 脚架：Solidsteel SS-6
+* 抓轨光驱：ASUS BW-16D1HT
