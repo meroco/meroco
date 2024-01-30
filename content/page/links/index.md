@@ -1,10 +1,10 @@
 ---
-title: Links
+title: 关于
 links:
-  - title: GitHub
+  - title: Bilibili
     description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+    website: https://github.com](https://space.bilibili.com/643842
+    image: data:image/png;base64,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
 menu:
     main: 
         weight: 4
@@ -14,20 +14,23 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
+![about.jpg](https://i.loli.net/2020/02/20/wYqPhp3ED9mojXH.jpg)
 
-This page's frontmatter:
+* 昵称：meroco/傲娇呆毛
+* 生日：1993/07/29   
+* 标签：绘画、摄影、碟霸、胶佬、娃娘
 
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
+* 相机：
+ * 135画幅：Nikon F
+ * 120画幅：Rolleiflex 3.5F
+ * 数码相机：Nikon Z5
+* 耳机：Sennheiser HD600
+* CD转盘：Pioneer PD-T04S
+* 黑胶转盘：Technics SL-100C
+* 唱头：Ortofon Quintet Blue
+* 唱头架：Yamamoto Sound Craft HS-4 
+* 唱放：Rega Fono MC MK III
+* 耳放：Niuniu Audio AMP Designed for Grado
+* 抓轨光驱：LG WH16NS60
 
-`image` field accepts both local and external images.
+以上均为当前持有。
