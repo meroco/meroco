@@ -2,26 +2,38 @@
 loading="lazy"
 alt="about.jpg"
 >&lt;/p>
-&lt;ul>
-&lt;li>昵称：meroco&lt;/li>
-&lt;li>标签：手绘、摄影、碟霸、胶佬、娃娃&lt;/li>
-&lt;li>相机：
+&lt;p>昵称：meroco
+标签：手绘、摄影、碟霸、胶佬、娃娃&lt;/p>
 &lt;blockquote>
-&lt;p>135画幅：Nikon F80D&lt;br>
-120画幅：Rolleiflex 3.5F、Mamiya RB67 ProSD&lt;/p>
-&lt;/blockquote>
-&lt;/li>
+&lt;h4 id="摄影">摄影
+&lt;/h4>&lt;ul>
+&lt;li>相机：
+- 135画幅：Nikon F80D&lt;br>
+- 120画幅：Rolleiflex 3.5F、Mamiya RB67 ProSD&lt;/li>
 &lt;li>幻灯机：Rollei P66S&lt;/li>
-&lt;li>唱机：Kuzma Stabi SD 9 with PS AC Power Supply&lt;/li>
-&lt;li>唱臂：Kuzma Stogi S、JVC/Victor UA-7045&lt;/li>
-&lt;li>唱头：Grado Reference3、Phasemation PP-200、Audio-Technica AT33MONO&lt;/li>
-&lt;li>唱头壳：Yamamoto Sound Craft HS-4、HS-2&lt;/li>
-&lt;li>唱放：Pass Labs XP-17、Musical Surroundings Nova 3 with Linear Charging Power Supply&lt;/li>
-&lt;li>唱臂线：Cardas Cross Phono Cable、Zonotone 6NTW-6060 Meister&lt;/li>
-&lt;li>耳放：Burson Audio Soloist Voyager Max、&lt;del>Niuniu Audio AMP Designed for Grado、Topping A90 Discrete&lt;/del>&lt;/li>
-&lt;li>耳机：Grado GS1000、Grado RS1X、Sennheiser HD600&lt;/li>
-&lt;li>功放：Yamaha A-S1200&lt;/li>
-&lt;li>喇叭：Polk Audio Monitor XT20、&lt;del>ELAC BS 283&lt;/del>&lt;/li>
-&lt;li>机架：Solidsteel S3-3&lt;/li>
-&lt;li>脚架：Solidsteel SS-6&lt;/li>
-&lt;/ul></description></item><item><title>链接</title><link>https://mint.moe/page/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mint.moe/page/links/</guid><description/></item><item><title>搜索</title><link>https://mint.moe/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mint.moe/page/search/</guid><description/></item></channel></rss>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;h4 id="hifi">HiFi
+&lt;/h4>&lt;ul>
+&lt;li>讯源：
+- 唱机：Kuzma Stabi SD 9 with PS AC Power Supply
+- 唱臂：Kuzma Stogi S、JVC/Victor UA-7045
+- 唱头：Audio-Technica AT-ART9XI、Grado Reference3、Phasemation PP-200、Audio-Technica AT33MONO
+- 唱头壳：Yamamoto Sound Craft HS-4、HS-2
+- 唱放：Pass Labs XP-17、Musical Surroundings Nova 3 with Linear Charging Power Supply
+- 唱臂线：Cardas Cross Phono Cable、Zonotone 6NTW-6060 Meister
+- 数字源：FiiO M21&lt;/li>
+&lt;li>放大：
+- 前级/耳放：Burson Audio Soloist Voyager Max、&lt;del>Niuniu Audio AMP Designed for Grado、Topping A90 Discrete&lt;/del>
+- 功放：Yamaha A-S1200&lt;/li>
+&lt;li>换能器：
+- 耳机：Grado GS1000、Grado RS1X、Sennheiser HD600
+- 喇叭：Polk Audio Monitor XT20、&lt;del>ELAC BS 283&lt;/del>&lt;/li>
+&lt;li>周边：
+- 电处：PS Audio Stellar PowerPlant 3
+- 机架：Solidsteel S3-3
+- 脚架：Solidsteel SS-6
+- 洗碟机：HumminGuru HG01&lt;/li>
+&lt;/ul>
+&lt;/blockquote></description></item><item><title>链接</title><link>https://mint.moe/page/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mint.moe/page/links/</guid><description/></item><item><title>搜索</title><link>https://mint.moe/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mint.moe/page/search/</guid><description/></item></channel></rss>
